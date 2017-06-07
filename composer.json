@@ -1,4 +1,5 @@
 {
+    "name": "impres/wordpress-fantastic-elasticsearch",
     "require": {
     	"ruflin/elastica": "~3.1.1",
     	"electrolinux/phpquery": "0.9.6"
